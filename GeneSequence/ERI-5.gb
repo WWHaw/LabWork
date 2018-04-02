@@ -1,0 +1,83 @@
+LOCUS       ERI_5                   1596 bp ds-DNA     linear       26-MAR-2018
+DEFINITION  Caenorhabditis elegans Enhanced RNAI (RNA interference) (eri-5),
+            partial mRNA.
+ACCESSION   NM_067798
+VERSION     NM_067798.5
+DBLINK      BioProject: PRJNA158 BioSample: SAMEA3138177
+KEYWORDS    RefSeq.
+SOURCE      Caenorhabditis elegans
+  ORGANISM  Caenorhabditis elegans Eukaryota; Metazoa; Ecdysozoa; Nematoda;
+            Chromadorea; Rhabditida; Rhabditoidea; Rhabditidae; Peloderinae;
+            Caenorhabditis.
+REFERENCE   1  (bases 1 to 1596)
+  AUTHORS   Sulson,J.E. and Waterston,R.
+  CONSRTM   Caenorhabditis elegans Sequencing Consortium
+  TITLE     Genome sequence of the nematode C. elegans: a platform for
+            investigating biology
+  JOURNAL   Science 282 (5396), 2012-2018 (1998)
+   PUBMED   9851916
+  REMARK    Erratum:[Science 1999 Jan 1;283(5398):35]
+REFERENCE   2  (bases 1 to 1596)
+  CONSRTM   NCBI Genome Project
+  TITLE     Direct Submission
+  JOURNAL   Submitted (11-JAN-2018) National Center for Biotechnology
+            Information, NIH, Bethesda, MD 20894, USA
+REFERENCE   3  (bases 1 to 1596)
+  AUTHORS   WormBase.
+  CONSRTM   WormBase Consortium
+  TITLE     Direct Submission
+  JOURNAL   Submitted (29-NOV-2017) WormBase Group, European Bioinformatics
+            Institute, Cambridge, CB10 1SA, UK. Email: help@wormbase.org
+REFERENCE   4  (bases 1 to 1596)
+  AUTHORS   Sulson,J.E. and Waterston,R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (03-MAR-2003) Nematode Sequencing Project: Sanger
+            Institute, Hinxton, Cambridge CB10 1SA, UK and The Genome Institute
+            at Washington University, St. Louis, MO 63110, USA
+COMMENT     REVIEWED REFSEQ: This record has been curated by WormBase. This
+            record is derived from an annotated genomic sequence (NC_003282).
+            On Jun 26, 2012 this sequence version replaced NM_067798.4.
+            COMPLETENESS: incomplete on both ends.
+COMMENT     
+COMMENT     ApEinfo:methylated:1
+FEATURES             Location/Qualifiers
+     source          1..1596
+                     /organism="Caenorhabditis elegans"
+                     /mol_type="mRNA"
+                     /strain="Bristol N2"
+                     /db_xref="taxon:6239"
+                     /chromosome="IV"
+                     /locus_tag="source:Caenorhabditis elegans"
+                     /ApEinfo_fwdcolor="pink"
+                     /ApEinfo_revcolor="pink"
+                     /ApEinfo_graphicformat="arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0"
+ORIGIN
+        1 ATGCTCTCGG AGGAGCCCTA CGAAACGTAT CACCCGGAAT TTCCAGATCC AGAGATTCGA
+       61 CGAATAGCTC TAAAAAGCTC GGCAGTCGTC GAGCTGCTCC GAATCGAATC ACCATCTTCA
+      121 TTTTTCTGCC GTCCCGTCGA TCATGTCACC GATGATCAAT TATTGATTCG CGAACCGTAC
+      181 CGCCTAACAA CTCGAATTAT CGATTTTTCG GCGGGAAACA TGGCGATGGC TCCGCTCCGG
+      241 CCACGTGTAT TCGCTCGATG TTTAATTTTG AAAAATTTGG AGCTTATCGA GGCCGCCCGG
+      301 ATTTTTTTCA TCGATTCTGC GGTCACTGCT AATGTTTCGT GGAAATGTCT GTTTCAAATT
+      361 GATGAAAATC TCAAATTTCA CCCATGGCAG GCGATGCATT GCACTTTGGG ACGTTTGGTG
+      421 CACCTTTCGG ACTCATGGAC AGACACCCAG TGCACCGAAT TTCGAAATAT TGTCTCTAAA
+      481 TTTGCAAAAT TTCAAATTAC CGCCAACCAG TGTGACGTGG ATTTTCGCTC GGACCGCCCG
+      541 TCTCTTCTCG TGAACCTGTA CGGATTGCCA AATGGAACAG AAATCGATAA AAAAGTGGCG
+      601 ATCGAGGAGA TTTGCGCGGT TTCTATGCAA AATGTTATGG TCTCTCAATT TCCCACTAAT
+      661 TTTATGGTCA ATCCCAAGCT CGAGGAGCTC GACAAAGAGC AAGACCACCT CGACGTGATT
+      721 CTTCTCGAAG AGTTCCGCCG GGACCTCCCA GCCGACTGGG CTCACGAGCC GCCTGCCGAT
+      781 TACCGTGAAG ACGACGCCGA CTGGGATATA CTGCAGTGCC ACGTGGCAGA ATGGAATGAC
+      841 ACGGCACTCG AGCAATTCCG AAGAGCCGAT GGAAGCTTTT GGGCGATGCT CGAGCCGAGT
+      901 TGCACCGTAT CACCCTGGGA AATGCACGTT ACACCGATTT TGGCACCGGA AAAGATGTCT
+      961 GATAATGAAC ATTGGATTTT CGAGCAGCTC GTAAAAAACT CGGAAAATCA GCAAAAAATC
+     1021 GACGATTTCT ACTCGAACCT CAAGAATCAG CGGCCGCTAG AGATGGAAGA AATAAAATTC
+     1081 GCCCTCCAAA CCGGCCGAAC CTACGTGATG GCAACCATCA AAAATCGCCA AAAATCGTCG
+     1141 GCTCAATGGC TCCGTTGCGA GATTATCGAT TTTTTGCCGA ACGCCAACGT GGCTCTTCGC
+     1201 TACGTGGATC TGGGAACACG TGGCATCCTG AAGCTCAAAA ATTTGCACCG AATGCACATT
+     1261 GAGCACACAA AAATCGCGCC GGCTTGCATT GAAATTGGCC GATTTCTCGA CGACGATTTA
+     1321 TCGATGGCCG ACAGCGAAAT GGAGTGGAAT ACACATTTTT GGCGTGAAAT TGTACCCTAT
+     1381 GACGTGCCGA TCGTTGTCGG ACCCGATATG GAATTCCTGG AAACCGGCAA ACTGCAATTC
+     1441 TCGCAGATTC GGGTCGCCGG CGACGAAGAC GACGAAAATT TGCTCGATAA AATCCCGTCG
+     1501 CCGTCGCCGT TTTTCACTGA ACGATCCGAC GATTTACGTA CCCAGAAAGA GGATGATGAT
+     1561 GATGGAAATG TTAGCGACGA TAAGGATAGC GGATGA  
+//
